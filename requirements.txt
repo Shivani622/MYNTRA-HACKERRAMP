@@ -1,0 +1,12 @@
+flask
+numpy
+pandas
+torch
+transformers
+scipy
+pickle-mixin
+nltk
+SpeechRecognition
+pyttsx3
+pillow
+matplotlib
