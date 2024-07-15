@@ -24,7 +24,7 @@ The Myntra Voice Product Recommendation System is a web application designed to 
 ## Project Structure
 
 ```plaintext
-Myntra_voice/
+Myntra_voice_reccomendation_system/
 ├── backend/
 │   ├── app.py
 │   ├── pre_compute_embeddings.py
@@ -142,13 +142,6 @@ Response:
 - Ensure the backend server is running before making requests from the frontend.
 - Check browser console and terminal logs for error messages.
 
-## Contribution
-
-Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure your code follows the project's coding standards and includes relevant documentation.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgements
 
